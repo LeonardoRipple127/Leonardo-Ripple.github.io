@@ -6,7 +6,7 @@ last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
 ---
-This post summarizes research on **artificial intelligence and embodied intelligence**, focusing on autonomous systems, adaptive decision-making, and robot-environment interaction.
+Research on **artificial intelligence and embodied intelligence**, focusing on autonomous systems, adaptive decision-making, and robot-environment interaction.
 {: .message }
 
 First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
