@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Curriculum Vitae
 title: Testing MathJax
 tags: mathjax
 math: true
