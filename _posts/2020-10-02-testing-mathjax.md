@@ -5,7 +5,11 @@ tags: mathjax
 math: true
 date: 2020-10-02 15:32 +0800
 ---
-Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
+
+- **National Encouragement Scholarship** – awarded for outstanding academic performance and dedication  
+- **First-Class Undergraduate Scholarship** – recognition of top academic ranking  
+- **Excellence in Research Award** – for contributions to undergraduate research projects  
+- **Robotics and Innovation Competition Awards** – including national and provincial prizes in robotics competitions  
 
 An inline math: \\\(E=mc^2\\\).
 
