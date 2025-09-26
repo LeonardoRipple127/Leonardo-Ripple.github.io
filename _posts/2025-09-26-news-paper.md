@@ -13,4 +13,3 @@ toc:  true
 ---
 
 Here presents some of my pubulication in the field of **AI**, **medical AI applications**, **embodied intelligence**, and **Robotics**.
-{: .message }
