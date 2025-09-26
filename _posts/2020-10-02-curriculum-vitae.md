@@ -1,10 +1,11 @@
 ---
 layout: post
 title: CURRICULUM VITAE
-tags: Vitae
+tags: [Vitae]
 math: true
 date: 2025-09-26 15:32 +0800
 ---
+
 
 - **National Encouragement Scholarship** – awarded for outstanding academic performance and dedication
 - **First-Class Undergraduate Scholarship** – recognition of top academic ranking
