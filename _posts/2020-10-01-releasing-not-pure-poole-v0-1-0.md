@@ -3,9 +3,11 @@ layout: post
 title: PERSONAL INTRESTES
 author: Leonardo Ripple
 tags:
-- jekyll theme
-- jekyll
-date: 2020-10-01 13:56 +0800
+- Artificial Intelligence
+- Medical Intelligence
+- Embodied Intelligence
+- Robotics
+date: 2025-09-26 13:56 +0800
 ---
 This post highlights research interests in **artificial intelligence**, **medical AI applications**, and **embodied intelligence**, focusing on autonomous systems, adaptive decision-making, and the integration of AI with real-world environments.
 
