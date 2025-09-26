@@ -4,7 +4,8 @@ title: CURRICULUM VITAE
 author: Leonardo Ripple
 tags:
 - Vitae
-date: 2025-09-26 16:00 +0800
+- General
+date: 2025-09-26 14:00 +0800
 ---
 
-HONOR DISPLAY FORM BACHELOR TO PHD.
+Present the honor from bechelor to PhD.
