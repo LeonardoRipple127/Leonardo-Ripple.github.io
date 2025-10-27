@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: Leonardo Ripple
+  username: vszhub
   card: summary
 logo: logo.png
 social:
-  name: Leonardo Ripple
+  name: Songzi Vong
   links:
-    - https://github.com/LeonardoRipple127
-    
+    - https://twitter.com/vszhub
+    - https://github.com/vszhub
 google_site_verification: xxxxx
 lang: en
 
