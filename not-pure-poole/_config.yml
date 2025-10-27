@@ -1,11 +1,11 @@
 # Setup
 title: Leonardo Ripple
-description: Currently persuing bachelors degree in Huazhong University of Science and Technology
-url: https://leonardoripple127.github.io/Leonardo-Ripple.github.io
-avatar: /my_profile.jpg
+description: A simple, beautiful, and powerful Jekyll theme for blogs
+url: https://vszhub.github.io
+avatar: /avatar.jpeg
 paginate: 10
 permalink: pretty
-cover_image: /new_background.jpg
+cover_image: /bg.jpeg
 
 # Gems
 plugins:
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Leonardo Ripple
-  url: https://github.com/LeonardoRipple127/
-  email: leonardoripple0128@gmail.com
+  name: Songzi Vong
+  url: https://github.com/vszhub/
+  email: vszhub@gmail.com
