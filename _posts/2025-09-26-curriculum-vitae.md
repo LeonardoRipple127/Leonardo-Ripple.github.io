@@ -34,6 +34,7 @@ excerpt: "Present the honor from bechelor to PhD."
 - **Outstanding Student Award and School-level Second-class Scholarship, 2024**
 
 - **Outstanding Student Award and School-level First-class Scholarship, 2023**
+
 ---
 
 ### 🎓 Graduate Honors *(To Be Updated)*
