@@ -29,11 +29,11 @@ excerpt: "Present the honor from bechelor to PhD."
 - **Second Prize, The 22nd China University Robot Competition (ROBOCON), 2023**  
   *Implemented inverse kinematics and PID-based motion control for a four-wheeled omni-directional chassis.*
 
-- **Outstanding Student Award and School-level First-class Scholarship, 2025**
+- **Outstanding Student Award and School-level First-class Scholarship, 2025**  
 
-- **Outstanding Student Award and School-level Second-class Scholarship, 2024**
+- **Outstanding Student Award and School-level Second-class Scholarship, 2024**  
 
-- **Outstanding Student Award and School-level First-class Scholarship, 2023**
+- **Outstanding Student Award and School-level First-class Scholarship, 2023**  
 
 ---
 
